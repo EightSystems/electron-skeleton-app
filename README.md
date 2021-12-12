@@ -30,6 +30,10 @@ yarn package
 
 Pull requests are always welcome 😃.
 
-## License
+## Code License
 
 [MIT](https://choosealicense.com/licenses/mit/)
+
+## Icon License
+
+Icons are trademark of OITO PAGAMENTOS E COBRANÇAS LTDA, a Brazilian Company
